@@ -1,0 +1,11 @@
+﻿*.dll
+*.pdb
+TicTacToe/TicTacToe/obj/Debug/net8.0/TicTacToe.AssemblyInfo.cs
+*.cache
+TicTacToe/TicTacToe/obj/Debug/net8.0/TicTacToe.csproj.FileListAbsolute.txt
+*.editorconfig
+*.json
+*.info
+*.props
+TicTacToe/TicTacToe/obj/Debug/net8.0/apphost.exe
+*.xml
